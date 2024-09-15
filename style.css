@@ -2,10 +2,12 @@ body {
 font-family: 'Roboto', sans-serif;
 margin: 0%;
 }
-
 .header { /*Стиль для класса header*/
     background-image: url(images/background.jpg);
     background-size: cover;
     color: white;
     background-color: black;
+}
+.name {
+    text-transform: uppercase;
 }
