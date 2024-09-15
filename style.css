@@ -11,3 +11,8 @@ margin: 0%;
 .name {
     text-transform: uppercase;
 }
+.main-menu {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 20px 0;
+}
