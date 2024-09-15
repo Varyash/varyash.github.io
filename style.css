@@ -16,3 +16,7 @@ margin: 0%;
     font-weight: bold;
     padding: 20px 0;
 }
+.main-menu a{ /*Стиль стиль применется для всех а*/
+color: white;
+text-decoration: none;
+}
